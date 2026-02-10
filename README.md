@@ -1,30 +1,18 @@
-# SQA-Internship-Project
-Software Quality Assurance Internship Project - 3 Week Testing Project. 
+## 🔗 Project Deliverables
 
-## 🛠️ Technologies & Tools
-- **Manual Testing:** Test case design, execution, reporting
-- **Bug Tracking:** Jira for defect management
-- **Automation:** Selenium WebDriver with Python/Java
-- **API Testing:** Postman (optional)
-- **Browsers:** Chrome, Firefox, Edge for compatibility testing
-- **Documentation:** Microsoft Office, Google Docs
+### Week 1 - Manual Testing
+- [Week 1 Test Cases](SQA_Week1_TestCases.pdf) - Manual test cases for SauceDemo login system
+- [Week 1 Bug Report](SQA_Week1_BugReport.pdf) - Jira bug reports for identified issues
 
-## 🎓 About the Intern
-**Name:** Esha Tabbassum  
-**Intern ID:** DHC-1019  
-**Organization:** DevelopersHubCorporation  
-**Duration:** 3 Weeks (February 2026)  
-**Project:** Bug Tracking and Test Automation for Web Application
+### Week 2 - Test Planning & Advanced Testing *(In Progress)*
+- Week 2 Test Plan - Coming Soon
+- Week 2 Compatibility Report - Coming Soon
 
-## 📝 Application Under Test
-**Name:** SauceDemo  
-**URL:** https://www.saucedemo.com/  
-**Type:** E-commerce demo application with login, product listing, cart, and checkout functionality
+### Week 3 - Automation & Final Report *(Upcoming)*
+- Week 3 Automation Scripts - Coming Soon  
+- Week 3 Final Report - Coming Soon
 
-## 🔗 Quick Links
-- [Week 1 Test Cases](Week-1/Test-Cases/)
-- [Week 1 Bug Reports](Week-1/Bug-Reports/)
-- [Project Requirements](requirements.txt)
-
----
-*This repository documents my 3-week SQA internship journey from manual testing to automation.*
+## 📁 Repository Files
+- `README.md` - Project overview and documentation
+- `SQA_Week1_TestCases.pdf` - Test case document
+- `SQA_Week1_BugReport.pdf` - Bug report document
