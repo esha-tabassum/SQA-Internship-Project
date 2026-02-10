@@ -1,8 +1,8 @@
 # Project Deliverables
 
 ## Week 1 - Manual Testing
-- [Week 1 Test Cases](./SQA_Week1_TestCases.pdf) - Manual test cases for SauceDemo login system
-- [Week 1 Bug Report](./SQA_Week1_BugReport.pdf) - Jira bug reports for identified issues
+- [Week 1 Test Cases](./Week-1/SQA_Week1_TestCases.pdf) - Manual test cases for SauceDemo login system
+- [Week 1 Bug Report](./Week-1/SQA_Week1_BugReport.pdf) - Jira bug reports for identified issues
 
 ## Week 2 - Test Planning & Advanced Testing (In Progress)
 - Week 2 Test Plan - Coming Soon
@@ -16,5 +16,5 @@
 
 ## Repository Files
 - [README.md](./README.md) - Project overview and documentation
-- [SQA_Week1_TestCases.pdf](./SQA_Week1_TestCases.pdf) - Test case document
-- [SQA_Week1_BugReport.pdf](./SQA_Week1_BugReport.pdf) - Bug report document
+- [Week 1 Test Cases](./Week-1/SQA_Week1_TestCases.pdf) - Test case document
+- [Week 1 Bug Report](./Week-1/SQA_Week1_BugReport.pdf) - Bug report document
