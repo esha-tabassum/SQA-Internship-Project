@@ -1,0 +1,58 @@
+Week 2 - Test Planning & Advanced Testing
+
+📋 Overview
+This folder contains all deliverables for Week 2 of the SQA internship project, focusing on test planning, black-box testing techniques, cross-browser compatibility, and defect retesting.
+
+📅 Tasks Completed
+
+✅ Test Plan Document
+- Created comprehensive test plan with:
+  - Objective and Scope
+  - Testing Approach
+  - Resources Required
+  - Test Environment
+  - Entry and Exit Criteria
+  - Testing Schedule
+
+✅ Black-Box Testing
+- **Boundary Value Analysis (BVA)**: Tested username/password boundaries
+- **Equivalence Partitioning (EP)**: Tested valid/invalid input partitions
+
+✅ Cross-Browser Testing
+- Tested on 3 browsers:
+  - Google Chrome ✓
+  - Mozilla Firefox ✓  
+  - Microsoft Edge ✓
+- Validated login, product sorting, add to cart, checkout
+
+✅ Retesting
+- Retested Week 1 defects
+- Updated bug status in Jira
+
+📁 Files in this Folder
+| File Name | Description |
+|-----------|-------------|
+| `SQA_Week2_TestPlan.pdf` | Detailed test plan document with scope, approach, schedule |
+| `SQA_Week2_CompatibilityReport.pdf` | Cross-browser and retesting results |
+
+🔍 Key Findings
+- All features work consistently across Chrome, Firefox, and Edge
+- BVA and EP testing passed all test cases
+- Week 1 defects remain unresolved and need developer attention
+- Dashboard features (sorting, cart, checkout) validated for Week 3 automation
+
+📊 Test Summary
+| Test Type | Test Cases | Pass | Fail |
+|-----------|------------|------|------|
+| BVA Testing | 6 | 6 | 0 |
+| EP Testing | 5 | 5 | 0 |
+| Cross-Browser | 5 scenarios × 3 browsers | 15 | 0 |
+
+🔜 Next Steps
+Week 3 will focus on automation testing using Selenium WebDriver with Python.
+
+---
+
+Week 2 Status: ✅ Complete  
+Date: February 2026  
+Intern: Esha Tabbassum (DHC-1019)
