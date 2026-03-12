@@ -1,23 +1,24 @@
 # SQA-Internship-Project
-Software Quality Assurance Internship Project - 3 Week Testing Project.
+Software Quality Assurance Internship Project - 4-Week Testing Project.
 
 ## 🛠️ Technologies & Tools
 - **Manual Testing:** Test case design, execution, reporting
 - **Bug Tracking:** Jira for defect management
 - **Automation:** Selenium WebDriver with Python
+- **Performance Testing:** Apache JMeter 5.6
 - **Browsers:** Chrome, Firefox, Edge for compatibility testing
 - **Documentation:** Microsoft Office, Google Docs
 
 ## 🎓 About the Intern
-**Name:** Esha Tabbassum  
-**Intern ID:** DHC-1019  
-**Organization:** DevelopersHubCorporation  
-**Duration:** 3 Weeks (February 2026)  
+**Name:** Esha Tabbassum
+**Intern ID:** DHC-1019
+**Organization:** DevelopersHubCorporation
+**Duration:** 4 Weeks (February – March 2026)
 **Project:** Bug Tracking and Test Automation for Web Application
 
 ## 📝 Application Under Test
-**Name:** SauceDemo  
-**URL:** https://www.saucedemo.com/  
+**Name:** SauceDemo
+**URL:** https://www.saucedemo.com/
 **Type:** E-commerce demo application with login, product listing, cart, and checkout functionality
 
 ---
@@ -40,25 +41,28 @@ Software Quality Assurance Internship Project - 3 Week Testing Project.
   - [Sorting Test Screenshot](./Week-3/Automation-Scripts/sorting_test.png) - Screenshot of product sorting
 - [Final Project Report](./Week-3/Final-Report/SQA_Week3_FinalReport.pdf) - Complete 3-week project documentation
 
----
-
+### Week 4 - Performance & Load Testing ✅
+- [Performance Test Plan](./Week-4/SQA_Week4_TestPlan.pdf) - Load test plan with 50–100 virtual users
+- [Performance Test Report](./Week-4/SQA_Week4_Performance_Testing_Report.pdf) - Performance analysis with response time, throughput, and error rate
+- JMeter Screenshots included in report
 
 ---
 
 ## 📊 Testing Summary
 
 | Week | Focus | Test Cases | Pass | Fail | Key Deliverables |
-|------|-------|------------|------|------|------------------|
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | Week 1 | Manual Testing | 8 | 7 | 1 | Test Cases + Bug Report |
 | Week 2 | Test Planning & Advanced Testing | 17 | 17 | 0 | Test Plan + Compatibility Report |
 | Week 3 | Automation Testing | 2 | 2 | 0 | Automation Scripts + Final Report |
+| Week 4 | Performance Testing | 3 loads (50,75,100) | 3/3 | 0 | Test Plan + Test Report |
 
 ---
 
 ## 🐞 Bug Summary
 
 | Bug ID | Description | Severity | Status |
-|--------|-------------|----------|--------|
+| :--- | :--- | :--- | :--- |
 | BUG-001 | Mobile error message overlap on iPhone X view | Medium | Open |
 | BUG-002 | Missing "Forgot Password" option on login page | Medium | Open |
 | BUG-003 | No password visibility toggle icon | Low | Open |
@@ -73,6 +77,8 @@ Software Quality Assurance Internship Project - 3 Week Testing Project.
 - [Login Automation Script](./Week-3/Automation-Scripts/login_test.py)
 - [Dashboard Automation Script](./Week-3/Automation-Scripts/dashboard_test.py)
 - [Final Project Report](./Week-3/Final-Report/SQA_Week3_FinalReport.pdf)
+- [Week 4 Test Plan](./Week-4/SQA_Week4_TestPlan.pdf)
+- [Week 4 Test Report](./Week-4/SQA_Week4_Performance_Testing_Report.pdf)
 
 ---
 
@@ -83,6 +89,7 @@ Software Quality Assurance Internship Project - 3 Week Testing Project.
 - Cross-browser compatibility testing
 - Automation testing with Selenium WebDriver
 - Python scripting for test automation
+- Performance testing with Apache JMeter
 - Professional QA reporting
 
 ---
@@ -92,19 +99,21 @@ Software Quality Assurance Internship Project - 3 Week Testing Project.
 2. Expand automation coverage to include checkout process
 3. Implement continuous integration for automated tests
 4. Add more cross-browser testing scenarios
-5. Consider performance testing for future releases
+5. Perform load testing with 200+ users for scalability analysis
+6. Integrate performance tests into CI/CD pipeline
 
 ---
 
 ## 🏁 Conclusion
-The 3-week SQA internship successfully covered all phases of software testing:
+The 4-week SQA internship successfully covered all phases of software testing:
 - **Week 1:** Manual testing foundation established
 - **Week 2:** Advanced techniques and planning applied
 - **Week 3:** Automation implemented successfully
+- **Week 4:** Performance testing executed with 50–100 users
 
 All project deliverables were completed on time and submitted as required.
 
 ---
 
-*This repository documents my 3-week SQA internship journey from manual testing to automation.*  
-**Last Updated:** February 2026
+*This repository documents my 4-week SQA internship journey from manual testing to performance testing.*
+**Last Updated:** March 2026
