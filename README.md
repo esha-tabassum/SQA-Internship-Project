@@ -31,7 +31,7 @@ Software Quality Assurance Internship Project - 4-Week Testing Project.
 
 ### Week 2 - Test Planning & Advanced Testing ✅
 - [Week 2 Test Plan](./Week-2/SQA_Week2_TestPlan.pdf) - Comprehensive test plan document with scope, approach, and schedule
-- [Week 2 Compatibility Report](./Week-2/SQA_Week2_CompatibilityAndRetestingReport.pdf) - Cross-browser testing results, BVA/EP analysis, and defect retesting
+- [Week 2 Compatibility Report](./Week-2/SQA_Week2_CompatibilityReport.pdf) - Cross-browser testing results, BVA/EP analysis, and defect retesting
 
 ### Week 3 - Automation & Final Report ✅
 - **Automation Scripts:**
@@ -76,6 +76,8 @@ Software Quality Assurance Internship Project - 4-Week Testing Project.
 - [Week 2 Compatibility Report](./Week-2/SQA_Week2_CompatibilityAndRetestingReport.pdf)
 - [Login Automation Script](./Week-3/Automation-Scripts/login_test.py)
 - [Dashboard Automation Script](./Week-3/Automation-Scripts/dashboard_test.py)
+- [Login Success Screenshot](./Week-3/Automation-Scripts/login_success.png)
+- [Sorting Test Screenshot](./Week-3/Automation-Scripts/sorting_test.png)
 - [Final Project Report](./Week-3/Final-Report/SQA_Week3_FinalReport.pdf)
 - [Week 4 Test Plan](./Week-4/SQA_Week4_TestPlan.pdf)
 - [Week 4 Test Report](./Week-4/SQA_Week4_Performance_Testing_Report.pdf)
