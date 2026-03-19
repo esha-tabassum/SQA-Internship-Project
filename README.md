@@ -1,11 +1,12 @@
 # SQA-Internship-Project
-Software Quality Assurance Internship Project - 4-Week Testing Project.
+Software Quality Assurance Internship Project - 5-Week Testing Project.
 
 ## Technologies & Tools
 - Manual Testing: Test case design, execution, reporting
 - Bug Tracking: Jira for defect management
 - Automation: Selenium WebDriver with Python
 - Performance Testing: Apache JMeter 5.6
+- Security Testing: OWASP ZAP 2.17.0
 - Browsers: Chrome, Firefox, Edge for compatibility testing
 - Documentation: Microsoft Office, Google Docs
 
@@ -13,7 +14,7 @@ Software Quality Assurance Internship Project - 4-Week Testing Project.
 Name: Esha Tabbassum
 Intern ID: DHC-1019
 Organization: DevelopersHubCorporation
-Duration: 4 Weeks (February – March 2026)
+Duration: 5 Weeks (February – March 2026)
 Project: Bug Tracking and Test Automation for Web Application
 
 ## Application Under Test
@@ -42,8 +43,12 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 - [Final Project Report](./Week-3/Final-Report/SQA_Week3_FinalReport.pdf) - Complete 3-week project documentation
 
 ### Week 4 - Performance & Load Testing
-- [Performance Test Plan](./Week-4/SQA_Week4_Performance_TestPlan.pdf) - Load test plan with 50-100 virtual users
+- [Performance Test Plan](./Week-4/SQA_Week4_Performance_Test_Plan.pdf) - Load test plan with 50-100 virtual users
 - [Performance Test Report](./Week-4/SQA_Week4_Performance_Testing_Report.pdf) - Performance analysis with response time, throughput, and error rate
+
+### Week 5 - Security Testing
+- [Security Testing Summary](./Week-5/SQA_Week5_SecurityTestingSummary.pdf) - Overview of security testing methodology and findings
+- [Vulnerability Report](./Week-5/SQA_Week5_VulnerabilityReport.pdf) - Detailed security vulnerabilities found (4 Medium, 4 Low, 4 Informational)
 
 ---
 
@@ -55,6 +60,7 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 | Week 2 | Test Planning | 17 | 17 | 0 | Test Plan + Compatibility Report |
 | Week 3 | Automation | 2 | 2 | 0 | Automation Scripts + Final Report |
 | Week 4 | Performance | 3 loads | 3/3 | 0 | Test Plan + Test Report |
+| Week 5 | Security | 12 alerts | - | - | Security Summary + Vulnerability Report |
 
 ---
 
@@ -78,8 +84,10 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 - [Login Success Screenshot](./Week-3/Automation-Scripts/login_success.png)
 - [Sorting Test Screenshot](./Week-3/Automation-Scripts/sorting_test.png)
 - [Final Project Report](./Week-3/Final-Report/SQA_Week3_FinalReport.pdf)
-- [Week 4 Test Plan](./Week-4/SQA_Week4_Performance_TestPlan.pdf)
+- [Week 4 Test Plan](./Week-4/SQA_Week4_Performance_Test_Plan.pdf)
 - [Week 4 Test Report](./Week-4/SQA_Week4_Performance_Testing_Report.pdf)
+- [Week 5 Security Summary](./Week-5/SQA_Week5_SecurityTestingSummary.pdf)
+- [Week 5 Vulnerability Report](./Week-5/SQA_Week5_VulnerabilityReport.pdf)
 
 ---
 
@@ -91,6 +99,7 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 - Automation testing with Selenium WebDriver
 - Python scripting for test automation
 - Performance testing with Apache JMeter
+- Security testing with OWASP ZAP
 - Professional QA reporting
 
 ---
@@ -101,19 +110,21 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 3. Implement continuous integration for automated tests
 4. Add more cross-browser testing scenarios
 5. Perform load testing with 200+ users for scalability analysis
+6. Implement security headers (CSP, HSTS, X-Frame-Options) based on Week 5 findings
 
 ---
 
 ## Conclusion
-The 4-week SQA internship successfully covered all phases of software testing:
+The 5-week SQA internship successfully covered all phases of software testing:
 - Week 1: Manual testing foundation established
 - Week 2: Advanced techniques and planning applied
 - Week 3: Automation implemented successfully
 - Week 4: Performance testing executed with 50-100 users
+- Week 5: Security testing completed with OWASP ZAP
 
 All project deliverables were completed on time and submitted as required.
 
 ---
 
-*This repository documents my 4-week SQA internship journey from manual testing to performance testing.*
+*This repository documents my 5-week SQA internship journey from manual testing to security testing.*
 Last Updated: March 2026
