@@ -1,5 +1,5 @@
 # SQA-Internship-Project
-Software Quality Assurance Internship Project - 5-Week Testing Project.
+Software Quality Assurance Internship Project - 6-Week Testing Project.
 
 ## Technologies & Tools
 - Manual Testing: Test case design, execution, reporting
@@ -14,7 +14,7 @@ Software Quality Assurance Internship Project - 5-Week Testing Project.
 Name: Esha Tabbassum
 Intern ID: DHC-1019
 Organization: DevelopersHubCorporation
-Duration: 5 Weeks (February – March 2026)
+Duration: 6 Weeks (February – March 2026)
 Project: Bug Tracking and Test Automation for Web Application
 
 ## Application Under Test
@@ -50,6 +50,10 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 - [Security Testing Summary](./Week-5/SQA_Week5_SecurityTestingSummary.pdf) - Overview of security testing methodology and findings
 - [Vulnerability Report](./Week-5/SQA_Week5_VulnerabilityReport.pdf) - Detailed security vulnerabilities found (4 Medium, 4 Low, 4 Informational)
 
+### Week 6 - CI/CD & Portfolio
+- [CI/CD Workflow Explanation](./Week-6/SQA_Week6_CICD_Workflow_Explanation.pdf) - Theory of how Selenium tests would run in a CI/CD pipeline
+- [Complete QA Portfolio](./Week-6/SQA_Complete_Portfolio.pdf) - Comprehensive portfolio documenting all 6 weeks of work
+
 ---
 
 ## Testing Summary
@@ -61,6 +65,7 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 | Week 3 | Automation | 2 | 2 | 0 | Automation Scripts + Final Report |
 | Week 4 | Performance | 3 loads | 3/3 | 0 | Test Plan + Test Report |
 | Week 5 | Security | 12 alerts | - | - | Security Summary + Vulnerability Report |
+| Week 6 | CI/CD & Portfolio | - | - | - | CI/CD Explanation + Portfolio |
 
 ---
 
@@ -88,6 +93,8 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 - [Week 4 Test Report](./Week-4/SQA_Week4_Performance_Testing_Report.pdf)
 - [Week 5 Security Summary](./Week-5/SQA_Week5_SecurityTestingSummary.pdf)
 - [Week 5 Vulnerability Report](./Week-5/SQA_Week5_VulnerabilityReport.pdf)
+- [Week 6 CI/CD Explanation](./Week-6/SQA_Week6_CICD_Workflow_Explanation.pdf)
+- [Week 6 Complete Portfolio](./Week-6/SQA_Complete_Portfolio.pdf)
 
 ---
 
@@ -100,7 +107,8 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 - Python scripting for test automation
 - Performance testing with Apache JMeter
 - Security testing with OWASP ZAP
-- Professional QA reporting
+- CI/CD concepts and pipeline integration
+- Professional QA reporting and portfolio building
 
 ---
 
@@ -115,16 +123,17 @@ Type: E-commerce demo application with login, product listing, cart, and checkou
 ---
 
 ## Conclusion
-The 5-week SQA internship successfully covered all phases of software testing:
+The 6-week SQA internship successfully covered all phases of software testing:
 - Week 1: Manual testing foundation established
 - Week 2: Advanced techniques and planning applied
 - Week 3: Automation implemented successfully
 - Week 4: Performance testing executed with 50-100 users
 - Week 5: Security testing completed with OWASP ZAP
+- Week 6: CI/CD theory and final portfolio compiled
 
 All project deliverables were completed on time and submitted as required.
 
 ---
 
-*This repository documents my 5-week SQA internship journey from manual testing to security testing.*
-Last Updated: March 2026
+*This repository documents my 6-week SQA internship journey from manual testing to security testing and CI/CD.*
+**Last Updated:** March 2026
